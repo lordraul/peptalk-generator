@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(45deg, gray 0%, lightgray 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slots {
+    
+}
